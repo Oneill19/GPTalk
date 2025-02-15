@@ -2,6 +2,12 @@
   GPTalk - AI Powered Language Learning Application
 </h1>
 
+<p align="middle">
+![Picture1](https://github.com/user-attachments/assets/6dc535ad-71c6-419c-bf9b-10c8108a562a)
+![Picture2](https://github.com/user-attachments/assets/2e5aaedb-0071-4a07-88a4-d201c9eb27a2)
+![Picture3](https://github.com/user-attachments/assets/dd94788d-44df-4a96-a2f3-7c96d92f0827)
+</p>
+
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
 [![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
